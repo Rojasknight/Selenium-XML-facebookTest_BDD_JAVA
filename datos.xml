@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<empresa>
+ <empleado id="1">
+ <nombre>Juan Pablo Navas Arango</nombre>
+ <username>jose</username>
+ <password>321423</password>
+ </empleado>
+ <empleado id="2">
+ <nombre>Carlos Ramirez Alvarez</nombre>
+ <username>dperez</username>
+ <password>433543</password>
+ </empleado>
+ <empleado id="3">
+ <nombre>Danny Rojas</nombre>
+ <username>dperez</username>
+ <password>433543</password>
+ </empleado>
+ <empleado id="4">
+ <nombre>Melissa Bustamante Narvaez</nombre>
+ <username>dperez</username>
+ <password>433543</password>
+ </empleado>
+</empresa>
